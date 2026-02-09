@@ -77,6 +77,31 @@
     background-color: rgba(255, 255, 255, 0);
     color: white;
 }
+.remont{
+    width: 80%;
+    margin: auto;
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.remont2{
+    display: flex;gap: 50px;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 60px;
+}
+.p2{
+    text-align: center;
+     margin: auto;
+    font-size: 66px;
+    width: 600px;
+    margin-bottom: 20px;
+}
+.a1{
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
 
 
 
@@ -97,6 +122,26 @@
         display: flex;
         justify-content: space-between;
     }
+    .content{
+        display: flex;
+        flex-direction: column;
+    }
+    .p2{
+        width: 320px;
+        
+        font-size: 40px;
+       
+    }
+    .remont2{
+        display: flex;
+        flex-direction: column;
+    }
+    .content3{
+        display:none;
+    }
+   .content{
     
+    width: 75%;
+   }
     
 }
