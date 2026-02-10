@@ -118,6 +118,73 @@
     font-size: 32px;
     font-weight: 800px;
 }
+.klining{
+    width: 80%;
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.obshi{
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 10px;
+    gap: 10px;
+}
+.vag{
+    background-image: url(g1.png);
+    width: 250px;
+    height: 235px;
+   
+}
+.vag2{
+    background-image: url(g2.png);
+    width: 250px;
+    height: 235px;
+   
+}
+.vag3{
+    background-image: url(g3.png);
+    width: 250px;
+    height: 235px;
+   
+}
+.vag4{
+    background-image: url(g4.png);
+    width: 250px;
+    height: 235px;
+   
+}
+.vag5{
+    background-image: url(g5.png);
+    width: 250px;
+    height: 235px;
+   
+}
+.vag6{
+    background-image: url(g6.png);
+    width: 250px;
+    height: 235px;
+   
+}
+.vag7{
+    background-image: url(g7.png);
+    width: 250px;
+    height: 235px;
+   
+}
+.vag8{
+    background-image: url(g8.png);
+    width: 250px;
+    height: 235px;
+   
+}
+.button5{
+   background-color: rgba(255, 255, 255, 0);
+   border: 1px solid white;
+   border-radius: 20px;
+   color: white;
+   margin: 10px 20px;
+}
 
 
 
@@ -168,6 +235,30 @@
    .yslugi{
     display: flex;
     flex-direction: column;
+   }
+   .vag2{
+    display: none;
+   }
+   .vag3{
+    display: none;
+   }
+   .vag4{
+    display: none;
+   }
+   .vag5{
+    display: none;
+   }
+   .vag6{
+    display: none;
+   }
+   .vag7{
+    display: none;
+   }
+   .vag7{
+    display: none;
+   }
+   .vag8{
+    display: none;
    }
     
 }
