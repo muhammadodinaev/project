@@ -233,7 +233,22 @@
 .d1{
     padding: 60px 60px;
 }
+.novosti{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.novosti2{
+    display: flex;gap: 10px;
+}
+.img1{
 
+    width: 350px;
+}
 
 
 
@@ -307,6 +322,10 @@
    }
    .vag8{
     display: none;
+   }
+   .novosti2{
+    display: flex;
+    flex-direction: column;
    }
     
 }
